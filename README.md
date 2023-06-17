@@ -1,0 +1,2 @@
+# rozpoznawanie_emocji
+projekt_rezpoznawanie_emocji
